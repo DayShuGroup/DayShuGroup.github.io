@@ -38,10 +38,26 @@
 
 1. 创建存放文档的目录,需切换到新创建的目录运行命令
 
+   
+
    ```` shell
    gitbook init
    ````
 
    * 会生成SUMMARY和README文件。
+
    * 如果存在SUMMARY会重新引用链接的其他文档，没有则创建。
 
+     
+
+2. 生成GitBook
+
+   `gitbook build`
+
+3. 列出GitBook命令
+
+   `gitbook help`
+
+4. 
+
+5. 
