@@ -20,6 +20,7 @@
     * [GitBook](usage/gitbook.md)
     * [Markdown](usage/Markdown.md)
     * [FFmpeg](./ffmpeg/ffmpeg.md)
+    * [Chromium](chromium/chromium.md)
 
 -----
 * 五、问题解决
